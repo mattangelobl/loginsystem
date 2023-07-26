@@ -1,0 +1,3 @@
+[submodule "loginApp"]
+	path = loginApp
+	url = https://github.com/mattangelobl/loginApp
